@@ -1,0 +1,4 @@
+<link href="https://fonts.googleapis.com/css?family=Open+Sans|PT+Serif" rel="stylesheet">
+
+font-family: 'PT Serif', serif;
+font-family: 'Open Sans', sans-serif;
